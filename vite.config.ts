@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
 
   return {
 
-    base: "/Engaz/",
+    base: "/",
 
     server: {
       port: 3000,
